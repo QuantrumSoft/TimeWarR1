@@ -1,3 +1,3 @@
-D:\NewProj1\TimeWar1\Source\TimeWar1\TimeWar1.Build.cs
-D:\NewProj1\TimeWar1\Source\TimeWar1.Target.cs
-D:\NewProj1\TimeWar1\Source\TimeWar1Editor.Target.cs
+C:\Users\noahg\Documents\Unreal Projects\TimeWarR1\TimeWar1\Source\TimeWar1\TimeWar1.Build.cs
+C:\Users\noahg\Documents\Unreal Projects\TimeWarR1\TimeWar1\Source\TimeWar1.Target.cs
+C:\Users\noahg\Documents\Unreal Projects\TimeWarR1\TimeWar1\Source\TimeWar1Editor.Target.cs
